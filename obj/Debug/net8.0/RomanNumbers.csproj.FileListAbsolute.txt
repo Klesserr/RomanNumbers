@@ -1,0 +1,14 @@
+C:\Users\Jesús\source\repos\RomanNumbers\bin\Debug\net8.0\RomanNumbers.exe
+C:\Users\Jesús\source\repos\RomanNumbers\bin\Debug\net8.0\RomanNumbers.deps.json
+C:\Users\Jesús\source\repos\RomanNumbers\bin\Debug\net8.0\RomanNumbers.runtimeconfig.json
+C:\Users\Jesús\source\repos\RomanNumbers\bin\Debug\net8.0\RomanNumbers.dll
+C:\Users\Jesús\source\repos\RomanNumbers\bin\Debug\net8.0\RomanNumbers.pdb
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.AssemblyInfoInputs.cache
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.AssemblyInfo.cs
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.dll
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\refint\RomanNumbers.dll
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.pdb
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\RomanNumbers.genruntimeconfig.cache
+C:\Users\Jesús\source\repos\RomanNumbers\obj\Debug\net8.0\ref\RomanNumbers.dll
